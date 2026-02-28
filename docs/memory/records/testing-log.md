@@ -25,3 +25,16 @@ Not applicable.
 Notes:
 Future tasks should add concrete test command output here.
 
+---
+
+## 2026-02-28 - Add `agents.md` alignment section to memory README
+Tests run:
+Manual documentation review of updated markdown content and link formatting.
+Result:
+Section added successfully; no runtime behavior affected.
+Security test impact:
+No runtime/security behavior change.
+Regression coverage:
+Not applicable for docs-only change.
+Notes:
+No automated tests executed.

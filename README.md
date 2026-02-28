@@ -21,6 +21,10 @@ It is designed to ensure that day-to-day implementation follows explicit princip
 3. Agents execute work using memory docs and keep evidence logs current.
 4. If governance and memory diverge, memory is updated first and the sync is logged.
 
+## Standards Alignment
+This repository uses the `AGENTS.md` instruction model described at [agents.md](https://agents.md/).
+
+Repository-wide behavior is defined in `AGENTS.md`, and detailed operational memory is maintained in `docs/memory/`.
+
 ## Current Scope
 This repository currently contains governance and process scaffolding only. It does not include application/runtime code.
-

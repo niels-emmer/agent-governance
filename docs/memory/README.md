@@ -20,3 +20,7 @@ Provide a lightweight, durable memory system that lets agents execute delivery w
 3. If governance and memory conflict, update memory first, then continue.
 4. Keep entries short, dated, and evidence-based.
 
+## Alignment with `agents.md`
+This repository follows the `AGENTS.md`-based instruction model described at [agents.md](https://agents.md/).
+
+`AGENTS.md` defines the operational contract and startup routine, while `docs/memory/` provides the working memory and evidence records used during task delivery.

@@ -24,3 +24,14 @@ Repository owner.
 Follow-up docs needed:
 Add top-level required governance docs if this repository evolves beyond governance/memory scaffolding.
 
+---
+
+## 2026-02-28 - Document alignment to `agents.md` standard
+Files changed:
+`docs/memory/README.md`.
+Reason:
+Make explicit that the repository follows the `AGENTS.md` model described at https://agents.md/.
+Reviewer/owner:
+Repository owner.
+Follow-up docs needed:
+None.

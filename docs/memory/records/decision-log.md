@@ -28,3 +28,18 @@ Evidence/links:
 Follow-up:
 Keep memory files synchronized whenever governance policy changes.
 
+---
+
+## 2026-02-28 - Document alignment with agents.md standard
+Context:
+`docs/memory/README.md` described the local memory system but did not explicitly reference the external `agents.md` standard.
+Decision:
+Add an "Alignment with `agents.md`" section with a link to https://agents.md/ and a short mapping to local files.
+Alternatives considered:
+Leave alignment implicit via existing `AGENTS.md` usage.
+Risk and mitigation:
+Risk: external standard reference may drift. Mitigation: keep wording high-level and maintain link validity during docs reviews.
+Evidence/links:
+`docs/memory/README.md`, https://agents.md/
+Follow-up:
+None.
